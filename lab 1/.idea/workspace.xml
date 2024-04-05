@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="987e2d97-0038-4132-b87e-198a0c996d5e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/lab1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/CSS text properties/challenge1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/CSS text properties/challenge2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/CSS text properties/challenge3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/CSS text properties/challenge4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Intro to CSS/challenge1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Intro to CSS/challenge2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Intro to CSS/challenge3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Intro to CSS/challenge4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Intro to HTML/APicture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Intro to HTML/TextTags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Intro to HTML/Whishlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Intro to HTML/WriteAPoem.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/More CSS selectors/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/More CSS selectors/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/More CSS selectors/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/More CSS selectors/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/More HTML Tags/challenge1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/More HTML Tags/challenge2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/More HTML Tags/challenge3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/More HTML Tags/challenge4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Web development tools/challenge1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Web development tools/challenge2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Web development tools/challenge3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Web development tools/challenge4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/Web development tools/challenge5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/css layout/challenge1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/css layout/challenge2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/css layout/challenge3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/khanacademy/css layout/challenge4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax problem set/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax problem set/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax problem set/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax problem set/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax problem set/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax problem set/Udacity_Logo_SVG_200x35.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax problem set/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax problem set/img/out-cold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax problem set/img/retro-beach.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax problem set/profile-placeholder.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/CSS syntax/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/HTML syntax problem set/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/HTML syntax problem set/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/HTML syntax problem set/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/HTML syntax problem set/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/HTML syntax problem set/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/HTML syntax problem set/6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/HTML syntax problem set/7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/HTML syntax problem set/redwoods_state_park.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/HTML syntax/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/udacity/HTML syntax/2.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2dg28042tss6oqEMiqP5YJAWbcp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Aorus/Desktop/Web-Dev/lab2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="987e2d97-0038-4132-b87e-198a0c996d5e" name="Changes" comment="" />
+      <created>1710415239836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710415239836</updated>
+      <workItem from="1710415240914" duration="643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
